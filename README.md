@@ -1,4 +1,4 @@
-__Note: I STRONGLY suggest to review this project that is also availabe on [GitHub](https://github.com/snwfog/comp345-assignment-03).__
+__Note: I STRONGLY suggest to review this project that is also availabe on [GitHub](https://github.com/snwfog/comp345-assignment-03). I have made a separated repository named `comp345-project-final`, but most of my commits are stored inside of `comp345-assignment-03`.__
 
 # COMP345 Assignment 3 README
 ## Map Builder Programming Pattern
